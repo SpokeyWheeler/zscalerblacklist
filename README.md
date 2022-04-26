@@ -1,0 +1,2 @@
+# zscalerblacklist
+Blacklist for Zscaler
